@@ -26,6 +26,7 @@ the following libraries:
 [requests](https://pypi.org/project/requests/) was used to make HTTP requests
 
 [bip44](https://pypi.org/project/bip44/) was used to assist in making a crypto wallet
+
 ---
 
 ## Installation Guide
